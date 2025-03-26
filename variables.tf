@@ -6,7 +6,7 @@ variable "environment"{
 
 }
 
-variable "sg_final_name"{
+variable "sg_name"{
 
 }
 
